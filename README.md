@@ -1,8 +1,8 @@
 ﻿# Java-Training-Documentation
 
-### Duration : April 2025 -May 2025
+### 📅 Duration : April 2025 -May 2025
 
-### About:
+### 📖 About:
 This repository contains my practice work, working codes for various problem statements. Documenting coding April25 - May25
 Check out my solutions at leetcode & profile !!!
 <br>
