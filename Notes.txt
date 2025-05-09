@@ -1,0 +1,15 @@
+Class : It is a user-defined data type / Blueprint or Structure / Instance of an class is "Object"
+
+Inheritance : Diamond inheritance Qn  - thats y multiple inheritance is removed
+    
+Encapsulation : Variables values can be added/modified only using methods
+
+HashMap : 
+    Aka Associative arrays , Index are known as "Buckets"
+    key -> hash value -> numeric value -> mod%10 -> store in that index position
+    Collision - If the position is same for multiple keys they are chained together in the same index position
+
+Bcrypt :
+    hashing algorithm widely used in java / resistant against brute force attacks
+    
+Format : Alt+Shift+F
